@@ -1,6 +1,7 @@
 @echo off
-echo Three
-echo Two
-echo One
-echo Hello Wolrd, I am Tuan Vy :) :)
+echo 3...
+echo 2...
+echo 1...
+echo Hello World, I am not Tuan Vy :) :)
+echo bye bye
 pause
